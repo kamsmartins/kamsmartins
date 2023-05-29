@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamylla</h1>
-<h3 align="center">A passionate frontend developer from Brazil I’m currently learning javascript, css and html!</h3>
+<h3 align="center">A passionate frontend developer from Brazil and I’m currently learning javascript, css and html!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
